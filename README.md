@@ -1,63 +1,117 @@
-# Edilander Tôrres – Freelancer Digital
+# 🚀 Edilander “Edi” Tôrres – Awesome Digital Freelancer
 
-![Banner](https://edilandertorres.pt/assets/banner.jpg)
+[![Website Status](https://img.shields.io/website-up-down-green-red/https/edilandertorres.pt.svg)](https://edilandertorres.pt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Contact: WhatsApp](https://img.shields.io/badge/WhatsApp-%2B351%20932%20665%20366-green.svg)](https://wa.me/351932665366)
 
-> **Soluções digitais à medida para empreendedores\&PMEs**
-
----
-
-## 🧰 Tecnologias & Ferramentas
-
-* **Web:** HTML5, CSS3, JavaScript, Tailwind CSS, React, Next.js
-* **CMS & Back‑end:** WordPress, Webflow, PHP, Node.js, cPanel, Softaculous
-* **E‑commerce:** WooCommerce, Shopify, integrações MB WAY, Stripe, PayPal
-* **Design & Branding:** Figma, Adobe XD, Illustrator, Photoshop
-* **Fotografia & Edição:** Câmaras DSLR, lentes fixas, post‑produção com Lightroom e Photoshop
-* **SEO & Marketing:** Google Analytics, Google Search Console, SEMrush, Facebook Ads, Google Ads
-* **Suporte Técnico:** Diagnóstico hardware/software, montagem de PCs, redes Wi‑Fi, backups automatizados
+> **Transforming ideas into powerful digital solutions** 🌐✨
 
 ---
 
-## 🚀 Serviços Principais
+## 📋 Table of Contents
 
-<div align="center">
-  <img src="https://edilandertorres.pt/assets/services.svg" alt="Serviços" />
-</div>
-
-| **Área**                                  | **O que Inclui**                                                                                                                                               | **Link**                                                |
-| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| **Web & E‑commerce & Apps & SEO**         | Criação de sites responsivos, lojas online escaláveis, apps CMS e portais de gestão com SEO on‑page/off‑page integrado.                                        | [Descobrir](https://edilandertorres.pt/web-ecommerce)   |
-| **Identidade Visual & Design Multimédia** | Logótipos, paletas de cores, tipografia, UX/UI, papelaria, vídeos curtos e animações, manuais de marca e templates para redes sociais.                         | [Descobrir](https://edilandertorres.pt/design-branding) |
-| **Fotografia & Edição**                   | Sessões em estúdio/on‑location, pós‑produção avançada (correção de cor, retoque, composição) e entrega otimizada para web e impressão.                         | [Descobrir](https://edilandertorres.pt/fotografia)      |
-| **Suporte Técnico Informático**           | Assistência presencial em Braga, remoto em Portugal: formatação, flags, upgrades (SSD, RAM), remoção de malware, configuração de redes e recuperação de dados. | [Descobrir](https://edilandertorres.pt/suporte-tecnico) |
-| **Consultoria Digital & Estratégia**      | Workshops, auditorias SEO, planeamento de campanhas Ads, definição de KPIs e roadmap estratégico para crescimento sustentável da tua presença digital.         | [Descobrir](https://edilandertorres.pt/seo-consultoria) |
+* [💡 About Me](#%EF%B8%8F-about-me)
+* [🛠️ Services](#%EF%B8%8F-services)
+* [🔧 Installation & Setup](#-installation--setup)
+* [🚀 Projects & Portfolio](#-projects--portfolio)
+* [📈 Workflow](#-workflow)
+* [📫 Contact](#-contact)
+* [📝 License](#-license)
 
 ---
 
-## 📂 Portfólio
+## 💡 About Me
 
-Visita o meu portfólio online para ver projetos de sucesso:
+<img align="right" width="150" src="https://edilandertorres.pt/assets/avatar.png" alt="Edi Avatar">
 
-👉 [edilandertorres.pt/portfolio](https://edilandertorres.pt/portfolio)
+Hello! I’m **Edilander “Edi” Tôrres**, a digital freelancer based in **Braga, Portugal**, specialized in crafting bespoke web, e-commerce, apps, branding, SEO, photography, and IT support solutions. With over a decade of experience, I blend creativity and technology to deliver high-impact results.
 
----
-
-## 🤝 Como Trabalhar Connosco
-
-1. **Contacto Inicial:** Envia uma mensagem no WhatsApp [wa.me/351932665366](https://wa.me/351932665366)
-2. **Briefing & Orçamento:** Definimos objetivos, requisitos e prazos.
-3. **Execução & Feedback:** Entregas parciais para validação contínua.
-4. **Entrega & Suporte:** Deployment, testes finais e formação/documentação.
+* 🎓 **Background:** Web Development, Graphic & Multimedia Design, UX/UI, SEO, and IT Consulting.
+* ⚙️ **Toolkit:** React, Next.js, WordPress, Figma, Adobe Suite, cPanel, Softaculous.
+* 🌍 **Clients:** Freelancers, Entrepreneurs & SMEs across Portugal and beyond.
 
 ---
 
-## 📫 Contacto
+## 🛠️ Services
 
-* **Email:** [eu@edilandertorres.pt](mailto:eu@edilandertorres.pt)
-* **WhatsApp:** [+351 932 665 366](https://wa.me/351932665366)
-* **Website:** [edilandertorres.pt](https://edilandertorres.pt)
-* **LinkedIn:** [linkedin.com/in/editorrespt](https://linkedin.com/in/editorrespt)
+I offer a modular set of services that can be tailored to your specific needs:
+
+| **Category**                       | **Highlights**                                                                                |
+| ---------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Web & E-commerce & Apps**        | Responsive Sites, Landing Pages, Online Stores, Custom Apps (CMS, Portals), SEO-First         |
+| **Visual & Multimedia**            | Branding, Logo Design, Print Collateral, UX/UI, Animations, Video & Interactive Presentations |
+| **Photography & Image Processing** | Product & Corporate Shoots, Event Coverage, Retouching, Color Grading, Web-Optimized Assets   |
+| **IT & Network Support**           | Local & Remote Support, System Builds, OS Installs, Malware Removal, Wi-Fi & Backup Solutions |
+| **Consulting & Strategy**          | Digital Audits, SEO, Content Strategy, PPC Campaigns, KPI Definition, Workshops & Training    |
+
+Each service can be expanded with a detailed [landing page](https://edilandertorres.pt) that dives deep into features, case studies, and client testimonials.
 
 ---
 
-> "Digital simples, criativo e eficaz" ✨
+## 🔧 Installation & Setup
+
+Want to launch a project with me? Here's how we get started:
+
+1. **Reach Out:** Send a message on WhatsApp or email.
+2. **Discovery Call:** Discuss goals, audience, and requirements.
+3. **Proposal & Timeline:** Receive a personalized plan and schedule.
+4. **Execution:** Development, design, testing and feedback loops.
+5. **Launch & Support:** Go live, track performance, and optimise continuously.
+
+---
+
+## 🚀 Projects & Portfolio
+
+A few highlights from my repertoire:
+
+| Project        | Description                           | Link                                                   |
+| -------------- | ------------------------------------- | ------------------------------------------------------ |
+| Brand X E-Shop | Full-stack e-commerce platform        | [Demo](https://edilandertorres.pt/portfolio/brandx)    |
+| Corporate Site | Responsive site with SEO optimisation | [View](https://edilandertorres.pt/portfolio/corporate) |
+| Photo Gallery  | Interactive photo showcase            | [Explore](https://edilandertorres.pt/portfolio/photo)  |
+
+Explore the full [Portfolio →](https://edilandertorres.pt/portfolio)
+
+---
+
+## 📈 Workflow
+
+```mermaid
+flowchart LR
+    A[Discovery] --> B[Design]
+    B --> C[Development]
+    C --> D[Testing]
+    D --> E[Deployment]
+    E --> F[Support]
+    F --> G[Optimisation]
+```
+
+1. **Discovery:** Understand goals and user needs.
+2. **Design:** Wireframes, prototypes, and visual mockups.
+3. **Development:** Code implementation and integrations.
+4. **Testing:** QA, accessibility, and performance checks.
+5. **Deployment:** Go live with CI/CD pipelines.
+6. **Support:** Continuous monitoring and improvements.
+
+---
+
+## 📫 Contact
+
+| Method      | Details                                                                    |
+| ----------- | -------------------------------------------------------------------------- |
+| 🌐 Website  | [edilandertorres.pt](https://edilandertorres.pt)                           |
+| 📞 WhatsApp | [+351 932 665 366](https://wa.me/351932665366)                             |
+| ✉️ Email    |  [eu@editorres.pt](mailto:eu@editorres.pt)                                 |
+| 🔗 LinkedIn | [linkedin.com/in/editorrespt](https://linkedin.com/in/editorrespt) |
+
+Feel free to reach out for **collaborations**, **projects**, or just to say hi! 👋
+
+---
+
+## 📝 License
+
+Distributed under the **MIT License**. See [LICENSE](LICENSE) for more information.
+
+---
+
+> Made with ❤️ by **Edilander “Edi” Tôrres** – Crafting digital excellence.
