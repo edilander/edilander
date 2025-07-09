@@ -53,10 +53,10 @@ Visita o meu portfólio online para ver projetos de sucesso:
 
 ## 📫 Contacto
 
-* **Email:** [edilander@edilandertorres.pt](mailto:edilander@edilandertorres.pt)
+* **Email:** [eu@edilandertorres.pt](mailto:eu@edilandertorres.pt)
 * **WhatsApp:** [+351 932 665 366](https://wa.me/351932665366)
 * **Website:** [edilandertorres.pt](https://edilandertorres.pt)
-* **LinkedIn:** [linkedin.com/in/edilandertorres](https://linkedin.com/in/edilandertorres)
+* **LinkedIn:** [linkedin.com/in/editorrespt](https://linkedin.com/in/editorrespt)
 
 ---
 
