@@ -108,10 +108,4 @@ Feel free to reach out for **collaborations**, **projects**, or just to say hi! 
 
 ---
 
-## 📝 License
-
-Distributed under the **MIT License**. See [LICENSE](LICENSE) for more information.
-
----
-
 > Made with ❤️ by **Edilander “Edi” Tôrres** – Crafting digital excellence.
