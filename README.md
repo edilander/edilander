@@ -16,8 +16,7 @@
 * [🚀 Projects & Portfolio](#-projects--portfolio)
 * [📈 Workflow](#-workflow)
 * [📫 Contact](#-contact)
-* [📝 License](#-license)
-
+  
 ---
 
 ## 💡 About Me
